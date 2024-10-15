@@ -1,6 +1,0 @@
-hour				23 		0001 0111	5λ
-minutes/second		59		0011 1011	6λ
-
-hour+min+sec = 5+6+6 = 17λ
-
-huor+min+sec = 23+59+59 = 141	 1000 1101 	8λ
